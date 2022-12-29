@@ -1,3 +1,3 @@
 # proyectoApiPagos
 
-Nuevo BackEnd: https://github.com/Alt-Anthony/ApiPagosFinal.git
+Nuevo BackEnd 2da parte 29 de setiembre: https://github.com/Alt-Anthony/ApiPagosFinal.git
